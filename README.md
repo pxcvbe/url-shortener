@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 
     ```bash
     git clone <repo-url>
-    cd server
+    cd pxcvbe-shortener
     ```
 
 2. **Install depedencies**
