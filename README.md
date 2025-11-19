@@ -2,6 +2,8 @@
 
 A robust, production-ready URL shortening service built with **Node.js**, **Express**, and **Prisma**. `Transform long URLs into short`, `shareable links with click tracking and analytics`.
 
+<img width="1920" height="886" alt="screenshot-url-shortener-api-running" src="https://github.com/user-attachments/assets/53e4d3ae-9915-4742-a481-1b23fad98aa6" />
+
 ## ✨ Features
 - **URL Shortening**: Convert long `URLs` into compact, and `short codes`.
 - **Click Analytics**: `Track the number of clicks` for each shortened URL.
